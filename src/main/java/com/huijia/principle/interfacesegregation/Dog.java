@@ -16,7 +16,6 @@ public class Dog implements ISwimAnimalAction, IEatAnimalAction {
 //    public void fly() {
 //
 //    }
-
     @Override
     public void swim() {
 
